@@ -3,13 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <title>Velum Projects</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="phone.css">
+    <link rel="shortcut icon" href="assets/icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <ul>
-        <li>проект 1</li>
-        <li>проект 2</li>
-        <li>проект 3</li>
-        <li>проект 4</li>
-    </ul>
+    <main>
+        <header>
+            <div class="about">
+                <h1>Привет, меня зовут Максим</h1>
+                <p class="title">Frontend Developer | Python Enjoyer</p>
+            </div>
+            <div class="avatar-container">
+                <img alt='photo' class="avatar" src="assets/av.jpeg">
+            </div>
+        </header>
+
+        <section class="projects">
+            <h2>Мои проекты</h2>
+            <div id="project-container"></div>
+        </section>
+
+        <section class="contacts">
+            <h2>Контакты</h2>
+            <div class="contacts-container">
+                <a href='https://github.com/Maxorik' target="_blank">
+                    <div class="card flex">
+                        <img class="contact-icon" alt="github" src="assets/cgit.png">
+                        <span>GitHub</span>
+                    </div>
+                </a>
+                <a href='mailto:gfifful@gmail.com' target="_blank">
+                    <div class="card flex">
+                        <img class="contact-icon" alt="gmail" src="assets/cgmail.png">
+                        <span>Gmail</span>
+                    </div>
+                </a>
+                <a href='https://t.me/maxorik' target="_blank">
+                    <div class="card flex">
+                        <img class="contact-icon" alt="tg" src="assets/ctg.png">
+                        <span>Telegram</span>
+                    </div>
+                </a>
+            </div>
+        </section>
+    </main>
 </body>
+<script src="main.js"></script>
 </html>

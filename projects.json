@@ -1,0 +1,165 @@
+{
+	"store": [
+		{
+			"id": "velum",
+			"title": "Velum Web",
+			"description": "Страница с музыкой, заметками, планированием, сохраненками (в работе)",
+			"year": "2025",
+			"isfinished": "false",
+			"github": "https://github.com/Maxorik/velumweb",
+			"site": "https://www.velumweb.ru/",
+			"link": "velumweb.ru",
+			"image": "velum.jpg"
+		}, {
+			"id": "imhungry",
+			"title": "Чеклист продуктов",
+			"description": "Приложение позволяет отслеживать, чего из списка продуктов в данный момент не хватает",
+			"year": "2025",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/imhungry",
+			"site": "https://imhungry.velumweb.ru/",
+			"link": "imhungry.velumweb.ru",
+			"image": "hungry.png"
+		}, {
+			"id": "market_parser",
+			"title": "Поиск товара по выгодной цене",
+			"description": "Телеграм-бот для поиска лучших предложений на ozon, wildberries и yandex.market",
+			"year": "2025",
+			"isfinished": "false",
+			"github": "https://github.com/Maxorik/market_parser",
+			"link": "github.com/market-parser",
+			"site": "",
+			"image": "parser.jpg"
+		}, {
+			"id": "wow-launcher",
+			"title": "Лаунчер WoW WotLK",
+			"description": "Запуск клиента World of Warcraft с определенным realmlist и с предзаполненными логином и паролем",
+			"year": "2025",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/wow-launcher",
+			"link": "github.com/wow-launcher",
+			"site": "",
+			"image": "wow.png"
+		}, {
+			"id": "discount-alert",
+			"title": "Еще один парсер маркетплейсов",
+			"description": "Из подготовленной гугл-таблицы проверяем скидки и снижение цен на компоненты. При наличии распродажи или скидки отсылаем алерт в телеграм (в работе)",
+			"year": "2025",
+			"isfinished": "false",
+			"github": "https://github.com/Maxorik/discount-alert-",
+			"link": "github.com/discount-alert",
+			"site": "",
+			"image": "disc.png"
+		}, {
+			"id": "training_stand",
+			"title": "Подготовка по javascript",
+			"description": "Краткая выжимка главного по темам js с песочницей. В планах добавить остальной стек frontend",
+			"year": "2025",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/training_stand",
+			"site": "https://training.velumweb.ru/",
+			"link": "training.velumweb.ru",
+			"image": "stand.png"
+		}, {
+			"id": "yt-extension",
+			"title": "Chrome-расширение для youtube",
+			"description": "При использовании прокси youtube иногда зависает. Расширение запоминает тайминг видео и перезагружает страницу",
+			"year": "2024",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/yt-extension",
+			"link": "github.com/yt-extension",
+			"site": "",
+			"image": "yt.png"
+		}, {
+			"id": "toad_scrapper",
+			"title": "Скраппер веб-страницы",
+			"description": "Полностью клонирует веб-страницу со всем медиа и предоставляет в читаемом виде. В работе: добавить UI",
+			"year": "2024",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/toad_scrapper",
+			"link": "github.com/toad-scrapper",
+			"site": "",
+			"image": "toad.jpg"
+		}, {
+			"id": "shodan",
+			"title": "База знаний",
+			"description": "Личная страница для собрания полезных ресурсов, знаний и всего, связанного с веб-разработкой. В данный момент не ведется",
+			"year": "2024",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/-hodan",
+			"site": "https://shodan.velumweb.ru/",
+			"link": "shodan.velumweb.ru",
+			"image": "shodan.png"
+		}, {
+			"id": "hp_collection",
+			"title": "Ведение lego-коллекции",
+			"description": "Учет коллекции минифигурок лего серии 'Гарри Поттер'. В планах добавить учет наборов и прочего",
+			"year": "2024",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/hp_collection",
+			"site": "https://legohp.velumweb.ru/",
+			"link": "legohp.velumweb.ru",
+			"image": "hp.png"
+		}, {
+			"id": "vk_get_bot",
+			"title": "Копипаст постов из вк в телеграм",
+			"description": "Бот для автоматического вытягивания постов из группы вконтакте в группу телеграма",
+			"year": "2023",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/vk_get_bot",
+			"link": "github.com/vk-get-bot",
+			"site": "",
+			"image": "vktg.jpeg"
+		}, {
+			"id": "freepeetomsk",
+			"title": "Карта бесплатных туалетов г.Томска",
+			"description": "Карта с возможностью добавления точек на карту любым пользователем. В данный момент не заполняется и не ведется",
+			"year": "2023",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/freepeetomsk",
+			"site": "https://freepeetomsk.velumweb.ru/",
+			"link": "freepeetomsk.velumweb.ru",
+			"image": "freepeeicon.png"
+		}, {
+			"id": "VelumRadio",
+			"title": "Радио lofi",
+			"description": "Легкое карманное радио с часами и погодой",
+			"year": "2022",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/VelumRadio",
+			"site": "https://radio.velumweb.ru/",
+			"link": "radio.velumweb.ru",
+			"image": "radio.png"
+		}, {
+			"id": "bot-kit",
+			"title": "KIT для интернет-магазина в telegram",
+			"description": "Расширяемый шаблон для создания интернет-магазина в телеграм на базе Nodejs, sqlite3, telegramApi",
+			"year": "2022",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/bot-kit",
+			"link": "github.com/bot-kit",
+			"site": "",
+			"image": "tgstore.png"
+		}, {
+			"id": "velum_song",
+			"title": "Библиотека песен с аккордами",
+			"description": "Личная библиотека для добавления песен, которые можно сыграть. Ужасный дизайн прилагается. Проект временно (надеюсь) заброшен",
+			"year": "2021",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/velum_song",
+			"site": "https://songs.velumweb.ru/",
+			"link": "songs.velumweb.ru",
+			"image": "songs.png"
+		}, {
+			"id": "weather",
+			"title": "Виджет погоды",
+			"description": "Невероятный спагетти-код, показывающий погоду с визуальными эффектами (дожди, облачно, снег и т.п.)",
+			"year": "2020",
+			"isfinished": "true",
+			"github": "https://github.com/Maxorik/weather",
+			"site": "https://weather.velumweb.ru/",
+			"link": "weather.velumweb.ru",
+			"image": "weahter.jpg"
+		}
+	]
+}

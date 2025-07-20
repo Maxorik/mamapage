@@ -1,0 +1,30 @@
+@media only screen and (max-device-width: 1000px) {
+    header {
+        padding-top: 2.5rem;
+        display: flex;
+        gap: 1.5rem;
+        align-items: center;
+        flex-direction: column-reverse;
+        margin-bottom: 3rem;
+        max-width: fit-content;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+        margin-bottom: .5rem;
+    }
+
+    .title {
+        text-align: center;
+    }
+
+    .project-icon {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .year-project-container, .contacts-container {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: .75rem;
+    }
+}
