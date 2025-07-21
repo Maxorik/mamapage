@@ -114,10 +114,6 @@ h3 {
     height: 3rem;
 }
 
-.project-container {
-    min-height: 2000px;
-}
-
 .year-project-container, .contacts-container {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
