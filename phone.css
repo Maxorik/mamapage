@@ -27,4 +27,8 @@
         grid-template-columns: repeat(1, minmax(0, 1fr));
         gap: .75rem;
     }
+
+    .project-container {
+        min-height: 4000px;
+    }
 }

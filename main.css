@@ -8,12 +8,12 @@
 }
 
 a {
-    color: cornflowerblue;
+    color: rgba(0, 123, 147, 0.99);
     text-decoration: inherit;
+}
 
-    &:hover {
-        color: #10377c;
-    }
+a:hover {
+    color: #10377c;
 }
 
 main {
@@ -85,7 +85,7 @@ h3 {
 .subtitle {
     font-size: 1rem;
     line-height: 1.5rem;
-    color: rgb(75 85 99/var(1,1))
+    color: rgb(75 85 99)
 }
 
 .card {
@@ -94,10 +94,10 @@ h3 {
     padding: 1rem;
     border-radius: .75rem;
     border: 1px solid rgb(229 231 235);
+}
 
-    & a {
-        margin-top: auto;
-    }
+.card a {
+    margin-top: auto;
 }
 
 .card p {
@@ -112,6 +112,10 @@ h3 {
 .project-icon {
     width: 3rem;
     height: 3rem;
+}
+
+.project-container {
+    min-height: 2000px;
 }
 
 .year-project-container, .contacts-container {
